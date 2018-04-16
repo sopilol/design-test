@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 167,
-    "width": 234,
-    "x": 43,
-    "y": 42
+    "height": 360.9786562624612,
+    "width": 301.8185592706122,
+    "x": 8.951427927833311,
+    "y": 41.99999999999999
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
